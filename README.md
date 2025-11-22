@@ -1,99 +1,101 @@
- <!-- 🌠 GALACTIC TITLE -->
+ <!-- 🌌 INTRO — ADVENTURE MODE -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=900&lines=🌌+Nandani+Srivastava+|+Space+Explorer+👩‍🚀;Navigating+the+Tech+Universe+🚀;Full+Stack+Developer+|+DSA+Pilot+|+Cyber+Navigator;On+a+Mission+to+Master+The+Cosmos+of+Code">
+<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F0FF&center=true&width=900&lines=Welcome+to+Nandani's+Tech+Realm⚔️;Full+Stack+Developer+|+DSA+Warrior+|+Cyber+Explorer;Leveling+Up+Every+Single+Day🚀"/>
 </p>
 
 ---
 
-## 🪐 **👩‍🚀 Galactic Identity**
+## 🧬 **Origin Story**
 
-> *A digital astronaut from ABES Engineering College charting star systems of Full Stack Development, algorithm constellations, and cybersecurity nebulae.*
+> *A tech explorer from ABES Engineering College, on a mission to master the digital universe—  
+from full-stack realms to the deep woods of cybersecurity and algorithmic battles.*
 
-🔭 **Field**: CSE B.Tech • ABES Engineering College  
-🚀 **Mission**: MERN Stack • DSA (C++) • Python Systems  
-🛰 **Special Units**: Networking | Cybersecurity | Open Source  
-🌟 **Philosophy**: *"Learning never stops"*  
-📍 *Current Location:* **Orbiting the JavaScript Nebula**
+- 🧠 **CSE B.Tech | ABES Engineering College, Ghaziabad**
+- ⚔ Skills forged in **Full Stack, DSA (C++), Python**
+- 🛡 Training in **Networking & Cybersecurity**
+- 🎯 Powered by curiosity, consistency & caffeine
+
+📍 *Status:* **Online — Training & Leveling Up 🚀**  
+🕶 Motto: **"Learning never stops"**
 
 ---
 
-## 🛸 **Tech Constellations (Skills Unlocked)**
+## 🗡 **Skill Inventory (Unlocked)**
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,linux,git,github,bash,php,sql,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,php,sql,vscode" />
 </p>
 
-| Galaxy | Exploration Status | Notes |
-|--------|-------------------|-------|
-| 🌐 Web Universe | 🚀 *Active Exploration* | Full-Stack Systems |
-| 🧠 Algorithm Belt | 🔥 *Engaged in Battles* | C++ Combat Mode |
-| 🛰 Cyber Nebula | 🌘 *Scanning Signals* | Networks + Security |
-| 🤖 Python Galaxy | 🌱 *Orbiting* | Scripts + Data Systems |
+| Category | Mastery Level | Notes |
+|----------|---------------|-------|
+| 🧩 DSA (C++) | 🔥 **ADVANCING** | Solving quests daily |
+| 🌐 Full Stack | ⚡ **ACTIVE QUEST** | MERN, dynamic UI |
+| 🔒 Cybersecurity | 🕶 **TRAINING MODE** | Networks & protocols |
+| 🧠 Python + ML | 🌱 **LEARNING PATH** | Experiments ongoing |
 
 ---
 
-## 🌍 **Star Maps (Repositories Charted)**
+## 🚀 **Current Missions**
 
-| 🌟 Planet | 📜 Description | 🔗 Warp Gate |
-|----------|---------------|-------------|
-| **DSA Planet — C++** | Battles fought across LeetCode & logic warfields | *(Add link)* |
-| **Frontend Galaxy** | UI Solar Systems, landing planets, cosmic designs | *(Add link)* |
-| **Python Nebula AI Labs** | Experiments, algorithms, automation | *(Add link)* |
-
-> 🛰 *New planets are being discovered… standby for transmissions.*
+- 🏹 Build Real-World Full Stack Projects  
+- 🛡 Practice C++ on LeetCode Daily  
+- 🔍 Explore System & Network Security  
+- 🌀 Understand Open Source Ecosystems  
+- ⚡ Start Portfolio Website Deployment
 
 ---
 
-## 📡 **Interstellar Telemetry (GitHub Stats)**
+## 🧭 **Repositories — Tech Territories Explored**
+
+| 🗺 Domain | 🌟 Description | 🔗 Link |
+|----------|---------------|---------|
+| **C++ DSA Arena** | Algorithm battles & optimized solutions | *(Add link)* |
+| **Frontend Worlds** | UI, animations, creative web builds | *(Add link)* |
+| **Python AI Labs** | Data experiments & ML basics | *(Add link)* |
+
+> *New lands under construction… stay alert ⚡*
+
+---
+
+## 💥 **Power Stats (Auto-Updating)**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=midnight-purple" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=blueberry" height="180px"/>
-
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=galaxy&hide_border=true"/>
+![Stats](https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=chartreuse-dark)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical)
+![Streak](https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=neon-dark&hide_border=true)
 
 </div>
 
 ---
 
-## 🌌 **Cosmic Activity Timeline**
+## ⚡ **Contribution Heat Map — The Battlefield**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=github-dark&hide_border=true"/>
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=tokyo-night)
 
 </div>
 
 ---
 
-## 🚀 **Current Missions in Progress**
-
-- 🌍 Building full-stack systems across new planets  
-- ♾ Upgrading DSA strength in C++  
-- 🛰 Deploying cybersecurity radar systems  
-- 🧪 Python experiments in AI labs  
-- 🌐 Constructing portfolio star base
-
----
-
-## 🛰 **Galactic Communication Channels**
+## 🔗 **Guild Connections**
 
 <p align="center">
-<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/COMMAND_CENTER-000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/SPACE_LINKEDIN-004AFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/STARPORTFOLIO-9D00FF?style=for-the-badge&logo=web&logoColor=white"></a>
+<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
 
 ---
 
-## 🌟 **Fun Fact Transmission**
+## 🎨 **Fun Fact Patch**
 
-> *"Every line of code is a star — together they form galaxies."* ✨💻
+> *"Software is my battlefield. Creativity is my weapon."* ⚔️💻
 
 ---
 
 <p align="center">
-🛸 **Thanks for traveling through my space!**  
-May your commits be clean & your code bug-free 🌠
+🚀 **May your code compile on the first run.**  
+🌌 *Thanks for exploring my digital universe.*
 </p>
