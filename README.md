@@ -1,95 +1,99 @@
-# Professional-Summary
-ABOUT ME!
-  <!-- ─────────────────────────────────────────────── -->
-<!-- ✨ HEADER BANNER -->
+ <!-- 🌠 GALACTIC TITLE -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" alt="Typing Animation" />
+<img src="https://readme-typing-svg.herokuapp.com?size=30&color=00E5FF&center=true&vCenter=true&width=900&lines=🌌+Nandani+Srivastava+|+Space+Explorer+👩‍🚀;Navigating+the+Tech+Universe+🚀;Full+Stack+Developer+|+DSA+Pilot+|+Cyber+Navigator;On+a+Mission+to+Master+The+Cosmos+of+Code">
 </p>
 
 ---
 
-## 👩‍💻 **About Me**
+## 🪐 **👩‍🚀 Galactic Identity**
 
-🎓 *CSE B.Tech Student — ABES Engineering College, Ghaziabad*  
-💻 Interests: **Full Stack Development | DSA (C++) | Python | Networking | Cybersecurity**  
-🌱 Currently Exploring: **MERN Stack + System Level Dev + Cybersecurity Tools**  
-🚀 Growing daily through **projects, problem-solving & open source**  
-✨ Motto: **"Curiosity fuels progress"**
+> *A digital astronaut from ABES Engineering College charting star systems of Full Stack Development, algorithm constellations, and cybersecurity nebulae.*
+
+🔭 **Field**: CSE B.Tech • ABES Engineering College  
+🚀 **Mission**: MERN Stack • DSA (C++) • Python Systems  
+🛰 **Special Units**: Networking | Cybersecurity | Open Source  
+🌟 **Philosophy**: *"Learning never stops"*  
+📍 *Current Location:* **Orbiting the JavaScript Nebula**
 
 ---
 
-## 🛠 **Tech Arsenal**
+## 🛸 **Tech Constellations (Skills Unlocked)**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,vscode,php,sql" />
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,linux,git,github,bash,php,sql,vscode&theme=light"/>
 </p>
 
----
-
-## 🚀 **Highlighted Projects**
-
-| ⭐ Project | 🔍 Description | 🔗 Link |
-|----------|--------------|---------|
-| **LeetCode Submissions** | DSA practice + optimized C++ solutions | *(Add link)* |
-| **Frontend Web Dev Projects** | UI Designs, Landing Pages, Mini Apps | *(Add link)* |
-| **Python AI/ML Learning** | Basics to advanced scripts | *(Add link)* |
-
-> More innovative projects dropping soon. Stay tuned! ⚡
+| Galaxy | Exploration Status | Notes |
+|--------|-------------------|-------|
+| 🌐 Web Universe | 🚀 *Active Exploration* | Full-Stack Systems |
+| 🧠 Algorithm Belt | 🔥 *Engaged in Battles* | C++ Combat Mode |
+| 🛰 Cyber Nebula | 🌘 *Scanning Signals* | Networks + Security |
+| 🤖 Python Galaxy | 🌱 *Orbiting* | Scripts + Data Systems |
 
 ---
 
-## 📊 **GitHub Stats Dashboard**
+## 🌍 **Star Maps (Repositories Charted)**
+
+| 🌟 Planet | 📜 Description | 🔗 Warp Gate |
+|----------|---------------|-------------|
+| **DSA Planet — C++** | Battles fought across LeetCode & logic warfields | *(Add link)* |
+| **Frontend Galaxy** | UI Solar Systems, landing planets, cosmic designs | *(Add link)* |
+| **Python Nebula AI Labs** | Experiments, algorithms, automation | *(Add link)* |
+
+> 🛰 *New planets are being discovered… standby for transmissions.*
+
+---
+
+## 📡 **Interstellar Telemetry (GitHub Stats)**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=midnight-purple" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=blueberry" height="180px"/>
 
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=galaxy&hide_border=true"/>
 
 </div>
 
 ---
 
-## ⚡ **Contribution Graph**
+## 🌌 **Cosmic Activity Timeline**
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 **Current Focus**
+## 🚀 **Current Missions in Progress**
 
-- 🌐 Building real-world full-stack projects  
-- 🧠 Leveling up DSA in C++  
-- 💻 Exploring Networking + Cybersecurity  
-- 🤝 Understanding Open Source Culture  
-- 📚 Learning MERN Stack + DevOps basics  
+- 🌍 Building full-stack systems across new planets  
+- ♾ Upgrading DSA strength in C++  
+- 🛰 Deploying cybersecurity radar systems  
+- 🧪 Python experiments in AI labs  
+- 🌐 Constructing portfolio star base
 
 ---
 
-## 🌍 **Connect With Me**
+## 🛰 **Galactic Communication Channels**
 
 <p align="center">
-<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"/></a>
+<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/COMMAND_CENTER-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/SPACE_LINKEDIN-004AFF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/STARPORTFOLIO-9D00FF?style=for-the-badge&logo=web&logoColor=white"></a>
 </p>
 
 ---
 
-## 💫 **Fun Fact**
+## 🌟 **Fun Fact Transmission**
 
-> *“Code isn’t just logic — it’s creativity turned into reality.”* 🎨💻
+> *"Every line of code is a star — together they form galaxies."* ✨💻
 
 ---
 
 <p align="center">
-  ⭐ **If you like my work, star my repos & connect!** ⭐  
-  <br>Made with 💙 by **Nandani Srivastava**
+🛸 **Thanks for traveling through my space!**  
+May your commits be clean & your code bug-free 🌠
 </p>
-
-
