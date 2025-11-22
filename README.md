@@ -1,86 +1,83 @@
 # Professional-Summary
 ABOUT ME!
-# 👋 Hello, I'm **Nandani Srivastava**
-
-🎓 **CSE B.Tech Student at ABES Engineering College, Ghaziabad**  
-💻 Passionate about **Full Stack Development, DSA (C++), Python, Networking & Cybersecurity**  
-🌱 Currently learning **Web Development + MERN Stack + DSA**  
-🚀 Actively practicing problems & improving system-level skills  
-✨ Motto: **"Learning never stops"**
+  <!-- ─────────────────────────────────────────────── -->
+<!-- ✨ HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" alt="Typing Animation" />
+</p>
 
 ---
 
-## 🛠️ **Tech Stack**
+## 👩‍💻 **About Me**
 
-| 💻 Languages | 🌐 Web Dev / Frameworks | 🔧 Tools & Platforms |
-|--------------|------------------------|----------------------|
-| C++ • Python | HTML • CSS • JavaScript | Git • GitHub • VS Code |
-| Bash • SQL   | React* • Node.js*       | Canva • Linux Commands |
-|              |                         | Networking Tools |
-
-(* Learning / Exploring)
+🎓 *CSE B.Tech Student — ABES Engineering College, Ghaziabad*  
+💻 Interests: **Full Stack Development | DSA (C++) | Python | Networking | Cybersecurity**  
+🌱 Currently Exploring: **MERN Stack + System Level Dev + Cybersecurity Tools**  
+🚀 Growing daily through **projects, problem-solving & open source**  
+✨ Motto: **"Curiosity fuels progress"**
 
 ---
 
-## 🚀 **Latest Projects & Repositories**
+## 🛠 **Tech Arsenal**
 
-⭐ **LeetCode Submissions**  
-> My DSA practice, problem-solving, and logic building in C++.  
-📂 Repo: *(Add link)*
-
-⭐ **Frontend Web Development Projects**  
-> HTML, CSS, JavaScript mini projects, UI designs & landing pages.  
-📂 Repo: *(Add link)*
-
-⭐ **Python | AI | ML Learning Journey**  
-> Basic to intermediate Python concepts — lists, loops, functions & more.  
-📂 Repo: *(Add link)*
-
-✔ More projects coming soon… stay tuned! 🚀
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,vscode,php,sql" />
+</p>
 
 ---
 
-## 📊 **GitHub Stats**
+## 🚀 **Highlighted Projects**
+
+| ⭐ Project | 🔍 Description | 🔗 Link |
+|----------|--------------|---------|
+| **LeetCode Submissions** | DSA practice + optimized C++ solutions | *(Add link)* |
+| **Frontend Web Dev Projects** | UI Designs, Landing Pages, Mini Apps | *(Add link)* |
+| **Python AI/ML Learning** | Basics to advanced scripts | *(Add link)* |
+
+> More innovative projects dropping soon. Stay tuned! ⚡
+
+---
+
+## 📊 **GitHub Stats Dashboard**
 
 <div align="center">
 
-![Nandani’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura" height="180px"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=srivastavanandani190-lang&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true"/>
 
 </div>
 
 ---
 
-## 📈 **Activity & Growth**
+## ⚡ **Contribution Graph**
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🎯 **What I'm Working On**
+## 🎯 **Current Focus**
 
-- 🌐 Building full-stack projects  
-- 🧠 Strengthening DSA in C++  
-- 🔒 Enhancing networking & cybersecurity knowledge  
-- 🤝 Learning open-source contributions  
-- 📘 Learning MERN Stack (React + Node)
+- 🌐 Building real-world full-stack projects  
+- 🧠 Leveling up DSA in C++  
+- 💻 Exploring Networking + Cybersecurity  
+- 🤝 Understanding Open Source Culture  
+- 📚 Learning MERN Stack + DevOps basics  
 
 ---
 
-## 🤝 **Connect With Me**
+## 🌍 **Connect With Me**
 
-📌 GitHub: **https://github.com/srivastavanandani190-lang**  
-📧 *Add email?*  
-🔗 *Add LinkedIn?*  
-
-Let's connect and build meaningful tech together! 🚀
+<p align="center">
+<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"/></a>
+</p>
 
 ---
 
@@ -90,5 +87,9 @@ Let's connect and build meaningful tech together! 🚀
 
 ---
 
-⭐ **If you like my work, don’t forget to star my repositories & follow!**  
-Thanks for visiting! 🙌
+<p align="center">
+  ⭐ **If you like my work, star my repos & connect!** ⭐  
+  <br>Made with 💙 by **Nandani Srivastava**
+</p>
+
+
