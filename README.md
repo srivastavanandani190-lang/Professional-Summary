@@ -75,7 +75,7 @@ ABOUT ME!
 
 <p align="center">
 <a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"/></a>
 </p>
 
