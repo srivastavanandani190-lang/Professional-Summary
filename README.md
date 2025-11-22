@@ -1,101 +1,92 @@
- <!-- 🌌 INTRO — ADVENTURE MODE -->
+ <!-- ─────────────────────────────────────────────── -->
+<!-- ✨ HEADER BANNER -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&color=00F0FF&center=true&width=900&lines=Welcome+to+Nandani's+Tech+Realm⚔️;Full+Stack+Developer+|+DSA+Warrior+|+Cyber+Explorer;Leveling+Up+Every+Single+Day🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" alt="Typing Animation" />
 </p>
 
 ---
 
-## 🧬 **Origin Story**
+## 👩‍💻 **About Me**
 
-> *A tech explorer from ABES Engineering College, on a mission to master the digital universe—  
-from full-stack realms to the deep woods of cybersecurity and algorithmic battles.*
-
-- 🧠 **CSE B.Tech | ABES Engineering College, Ghaziabad**
-- ⚔ Skills forged in **Full Stack, DSA (C++), Python**
-- 🛡 Training in **Networking & Cybersecurity**
-- 🎯 Powered by curiosity, consistency & caffeine
-
-📍 *Status:* **Online — Training & Leveling Up 🚀**  
-🕶 Motto: **"Learning never stops"**
+🎓 *CSE B.Tech Student — ABES Engineering College, Ghaziabad*  
+💻 Interests: **Full Stack Development | DSA (C++) | Python | Networking | Cybersecurity**  
+🌱 Currently Exploring: **MERN Stack + System Level Dev + Cybersecurity Tools**  
+🚀 Growing daily through **projects, problem-solving & open source**  
+✨ Motto: **"Curiosity fuels progress!"**
 
 ---
 
-## 🗡 **Skill Inventory (Unlocked)**
+## 🛠 **Tech Arsenal**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,php,sql,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,vscode,php,sql" />
 </p>
 
-| Category | Mastery Level | Notes |
-|----------|---------------|-------|
-| 🧩 DSA (C++) | 🔥 **ADVANCING** | Solving quests daily |
-| 🌐 Full Stack | ⚡ **ACTIVE QUEST** | MERN, dynamic UI |
-| 🔒 Cybersecurity | 🕶 **TRAINING MODE** | Networks & protocols |
-| 🧠 Python + ML | 🌱 **LEARNING PATH** | Experiments ongoing |
+---
+
+## 🚀 **Highlighted Projects**
+
+| ⭐ Project | 🔍 Description | 🔗 Link |
+|----------|--------------|---------|
+| **LeetCode Submissions** | DSA practice + optimized C++ solutions | *(Add link)* |
+| **Frontend Web Dev Projects** | UI Designs, Landing Pages, Mini Apps | *(Add link)* |
+| **Python AI/ML Learning** | Basics to advanced scripts | *(Add link)* |
+
+> More innovative projects dropping soon. Stay tuned! ⚡
 
 ---
 
-## 🚀 **Current Missions**
-
-- 🏹 Build Real-World Full Stack Projects  
-- 🛡 Practice C++ on LeetCode Daily  
-- 🔍 Explore System & Network Security  
-- 🌀 Understand Open Source Ecosystems  
-- ⚡ Start Portfolio Website Deployment
-
----
-
-## 🧭 **Repositories — Tech Territories Explored**
-
-| 🗺 Domain | 🌟 Description | 🔗 Link |
-|----------|---------------|---------|
-| **C++ DSA Arena** | Algorithm battles & optimized solutions | *(Add link)* |
-| **Frontend Worlds** | UI, animations, creative web builds | *(Add link)* |
-| **Python AI Labs** | Data experiments & ML basics | *(Add link)* |
-
-> *New lands under construction… stay alert ⚡*
-
----
-
-## 💥 **Power Stats (Auto-Updating)**
+## 📊 **GitHub Stats Dashboard**
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=chartreuse-dark)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=neon-dark&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" height="180px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura" height="180px"/>
+
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true"/>
 
 </div>
 
 ---
 
-## ⚡ **Contribution Heat Map — The Battlefield**
+## ⚡ **Contribution Graph**
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=tokyo-night)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔗 **Guild Connections**
+## 🎯 **Current Focus**
+
+- 🌐 Building real-world full-stack projects  
+- 🧠 Leveling up DSA in C++  
+- 💻 Exploring Networking + Cybersecurity  
+- 🤝 Understanding Open Source Culture  
+- 📚 Learning MERN Stack + DevOps basics  
+
+---
+
+## 🌍 **Connect With Me**
 
 <p align="center">
-<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/PORTFOLIO-FF00FF?style=for-the-badge&logo=web&logoColor=white"></a>
+<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"/></a>
 </p>
 
 ---
 
-## 🎨 **Fun Fact Patch**
+## 💫 **Fun Fact**
 
-> *"Software is my battlefield. Creativity is my weapon."* ⚔️💻
+> *“Code isn’t just logic — it’s creativity turned into reality.”* 🎨💻
 
 ---
 
 <p align="center">
-🚀 **May your code compile on the first run.**  
-🌌 *Thanks for exploring my digital universe.*
+  ⭐ **If you like my work, star my repos & connect!** ⭐  
+  <br>Made with 💙 by **Nandani Srivastava**
 </p>
+
