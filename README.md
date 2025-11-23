@@ -1,8 +1,13 @@
- <!-- ─────────────────────────────────────────────── -->
+<!-- ─────────────────────────────────────────────── -->
 <!-- ✨ HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=800&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" alt="Typing Animation" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?color=9B5DE5&center=true&vCenter=true&width=900&height=80&font=Rush+Script&size=38&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" 
+    alt="Typing Animation" 
+  />
 </p>
+
+
 
 ---
 
