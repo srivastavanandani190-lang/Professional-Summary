@@ -1,90 +1,112 @@
 <!-- ─────────────────────────────────────────────── -->
-<!-- ✨ HEADER BANNER -->
+<!-- 🌈 ANIMATED HEADER BANNER -->
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?color=9B5DE5&center=true&vCenter=true&width=900&height=80&font=Rush+Script&size=38&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+%7C+DSA+%7C+Cybersecurity+Enthusiast;Learning+Every+Day+🚀" 
-    alt="Typing Animation" 
+    src="https://readme-typing-svg.herokuapp.com?color=F72585&center=true&vCenter=true&width=1000&height=80&size=35&lines=Hey+There+👋,+I'm+Nandani+Srivastava!;CSE+Student+@+ABES+Engineering+College;Full+Stack+Developer+🚀;DSA+%7C+Cybersecurity+%7C+Python+%7C+MERN;Learning+Every+Day+💡" 
   />
 </p>
 
-
-
----
-
-## 👩‍💻 *About Me*
-
-🎓 CSE B.Tech Student — ABES Engineering College, Ghaziabad  
-💻 Interests: *Full Stack Development | DSA (C++) | Python | Networking | Cybersecurity*  
-🌱 Currently Exploring: *MERN Stack + System Level Dev + Cybersecurity Tools*  
-🚀 Growing daily through *projects, problem-solving & open source*  
-✨ Motto: *"Curiosity fuels progress!"*
+<!-- NEON WAVES -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
-## 🛠 *Tech Arsenal*
+# 👩‍💻 *About Me*
+
+🎓 CSE Student — ABES Engineering College, Ghaziabad  
+💻 Interests: **Full Stack Development | DSA (C++) | Cybersecurity | Networking | Python**  
+🌱 Currently Learning: **MERN Stack, System Level Development, Cybersecurity Tools**  
+🚀 Passionate about **open-source, building products, problem-solving & innovation**  
+✨ Motto: *"Curiosity fuels progress!"*  
+
+---
+
+# 🛠 *Tech Arsenal*
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,git,github,linux,bash,vscode,php,sql" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nodejs,mongodb,php,sql,git,github,linux,bash,vscode,tailwind" />
 </p>
 
 ---
 
-## 🚀 *Highlighted Projects*
+# 🚀 *Highlighted Projects*
 
 | ⭐ Project | 🔍 Description | 🔗 Link |
 |----------|--------------|---------|
-| *LeetCode Submissions* | DSA practice + optimized C++ solutions | (Add link) |
-| *Frontend Web Dev Projects* | UI Designs, Landing Pages, Mini Apps | (Add link) |
-| *Python AI/ML Learning* | Basics to advanced scripts | (Add link) |
+| **🎯 LeetCode Submissions** | C++ optimized DSA solutions | (Add link) |
+| **🎨 Frontend Web Dev Projects** | UI Designs, Web Apps, Landing Pages | (Add link) |
+| **🤖 Python AI/ML Scripts** | Basics to intermediate models | (Add link) |
+| **🎬 Moviify Website** | Movie search + recommendation + UI | (Add link) |
 
-> More innovative projects dropping soon. Stay tuned! ⚡
+> 🌟 *More exciting projects coming soon…*
 
 ---
 
-## 📊 *GitHub Stats Dashboard*
+# 📊 *GitHub Stats & Analytics*
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" height="180px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura" height="180px"/>
+<!-- MAIN STATS -->
+<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical&hide_border=false&border_radius=15" height="180" />
 
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=true"/>
+<!-- TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura&border_radius=15" height="180" />
+
+<!-- STREAK -->
+<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=false&border_radius=15" height="180"/>
 
 </div>
 
 ---
 
-## ⚡ *Contribution Graph*
+# 📈 *Advanced Visual Analytics*
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=true"/>
+<!-- ACTIVITY GRAPH -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=srivastavanandani190-lang&theme=react-dark&hide_border=false&area=true" width="95%"/>
+
+<!-- CONTRIBUTION CALENDAR -->
+<img src="https://github.com/srivastavanandani190-lang/srivastavanandani190-lang/blob/output/github-contribution-grid-snake.svg" />
+
+<!-- ACHIEVEMENTS -->
+<img src="https://github-profile-trophy.vercel.app/?username=srivastavanandani190-lang&theme=dracula&margin-w=15&margin-h=15" />
 
 </div>
 
 ---
 
-## 🎯 *Current Focus*
+# ✨ *3D GitHub Profile Visualizer*
+
+<div align="center">
+  <a href="https://skyline.github.com/srivastavanandani190-lang">
+    <img src="https://img.shields.io/badge/3D_GitHub_Skyline-Visit-blueviolet?style=for-the-badge&logo=github" />
+  </a>
+</div>
+
+---
+
+# 🎯 *Current Focus*
 
 - 🌐 Building real-world full-stack projects  
-- 🧠 Leveling up DSA in C++  
-- 💻 Exploring Networking + Cybersecurity  
-- 🤝 Understanding Open Source Culture  
-- 📚 Learning MERN Stack + DevOps basics  
+- 🧠 Leveling up DSA (C++)  
+- 💻 Exploring **Networking + Cybersecurity Tools**  
+- 🛠 Understanding **Open Source + DevOps basics**  
+- 📚 Improving command over **MERN Stack**  
 
 ---
 
-## 🌍 *Connect With Me*
+# 🌍 *Connect With Me*
 
 <p align="center">
-<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/></a>
-<a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web"/></a>
+<a href="https://github.com/srivastavanandani190-lang"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/nandanisrivastava"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://enchanting-starburst-d1026d.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-111?style=for-the-badge&logo=web"/></a>
 </p>
 
 ---
 
-## 💫 *Fun Fact*
+# 💫 *Fun Fact*
 
 > “Code isn’t just logic — it’s creativity turned into reality.” 🎨💻
 
@@ -92,3 +114,7 @@
 
 <p align="center">
   ⭐ *If you like my work, star my repos & connect!* ⭐
+</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
+
