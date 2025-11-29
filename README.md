@@ -41,21 +41,30 @@
 > 🌟 *More exciting projects coming soon…*
 
 ---
-
-# 📊 *GitHub Stats & Analytics*
+ # 📊 *GitHub Stats & Analytics*
 
 <div align="center">
 
 <!-- MAIN STATS -->
-<img src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical&hide_border=false&border_radius=15" height="180" />
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=srivastavanandani190-lang&show_icons=true&theme=radical" 
+  height="180"
+/>
 
 <!-- TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura&border_radius=15" height="180" />
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=srivastavanandani190-lang&layout=compact&theme=aura" 
+  height="180"
+/>
 
-<!-- STREAK -->
-<img src="https://streak-stats.demolab.com?user=srivastavanandani190-lang&theme=highcontrast&hide_border=false&border_radius=15" height="180"/>
+<!-- STREAK STATS -->
+<img 
+  src="https://streak-stats.demolab.com/?user=srivastavanandani190-lang&theme=highcontrast" 
+  height="180"
+/>
 
 </div>
+
 
 ---
 
