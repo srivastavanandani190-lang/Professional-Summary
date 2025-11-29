@@ -46,11 +46,11 @@
 <div align="center">
 
 
-<img src="https://github-readme-stats-livid-ten.vercel.app/api?username=srivastavanandani190-lang&theme=radical" />
+<!-- <img src="https://github-readme-stats-livid-ten.vercel.app/api?username=srivastavanandani190-lang&theme=radical" />
 
 
 <img src="https://git-hub-stats-alpha.vercel.app/api?username=srivastavanandani190-lang&theme=radical" />
-
+ -->
 
 <img src="https://stats.dooboo.io/api/github-stats?login=srivastavanandani190-lang" />
 
